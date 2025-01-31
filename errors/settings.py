@@ -61,9 +61,9 @@ DEFAULT_REQUEST_HEADERS = {
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-#DOWNLOADER_MIDDLEWARES = {
-#    "mopes.middlewares.MopesDownloaderMiddleware": 543,
-#}
+# DOWNLOADER_MIDDLEWARES = {
+#    "errors.middlewares.CustomMiddleware": 543,
+# }
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
@@ -101,3 +101,29 @@ DEFAULT_REQUEST_HEADERS = {
 # Set settings whose default value is deprecated to a future-proof value
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
+
+LOG_LEVEL = "DEBUG"
+LOG_FILE = "amazon_scraper.log"
+
+# CUSTOM_SETTINGS = { 
+
+#     # "ITEM_PIPELINES": {"errors.pipelines.ErrorHandlingPipeline": 300}, 
+
+#     "RETRY_ENABLED": True, 
+
+#     "RETRY_TIMES": 2,  # Retry failed requests 2 times 
+
+#     "DOWNLOAD_TIMEOUT": 10,  # Set timeout for requests 
+
+#     "LOG_LEVEL": "DEBUG",  # Adjust log level for better debugging 
+
+# } 
+
+# Enable the custom error logging extension
+ERROR_LOGGING_ENABLED = True
+
+# Add the path for logging (if needed for other extensions or settings)
+LOG_FILE = 'logs/scrapy_log.json'
+LOG_LEVEL = 'DEBUG'
+
+

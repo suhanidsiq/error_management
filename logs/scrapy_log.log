@@ -1,0 +1,61 @@
+2025-01-31 06:35:46 [scrapy.utils.log] INFO: Scrapy 2.12.0 started (bot: errors)
+2025-01-31 06:35:46 [scrapy.utils.log] INFO: Versions: lxml 5.3.0.0, libxml2 2.12.9, cssselect 1.2.0, parsel 1.10.0, w3lib 2.3.1, Twisted 24.11.0, Python 3.12.3 (main, Jan 17 2025, 18:03:48) [GCC 13.3.0], pyOpenSSL 25.0.0 (OpenSSL 3.4.0 22 Oct 2024), cryptography 44.0.0, Platform Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39
+2025-01-31 06:35:46 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-01-31 06:35:46 [asyncio] DEBUG: Using selector: EpollSelector
+2025-01-31 06:35:46 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.asyncioreactor.AsyncioSelectorReactor
+2025-01-31 06:35:46 [scrapy.utils.log] DEBUG: Using asyncio event loop: asyncio.unix_events._UnixSelectorEventLoop
+2025-01-31 06:35:46 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.asyncioreactor.AsyncioSelectorReactor
+2025-01-31 06:35:46 [scrapy.utils.log] DEBUG: Using asyncio event loop: asyncio.unix_events._UnixSelectorEventLoop
+2025-01-31 06:35:46 [scrapy.extensions.telnet] INFO: Telnet Password: fdcd8a38faffdf4f
+2025-01-31 06:35:46 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2025-01-31 06:35:46 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'errors',
+ 'FEED_EXPORT_ENCODING': 'utf-8',
+ 'LOG_FILE': 'logs/scrapy_log.log',
+ 'NEWSPIDER_MODULE': 'errors.spiders',
+ 'SPIDER_MODULES': ['errors.spiders'],
+ 'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'}
+2025-01-31 06:35:46 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-01-31 06:35:46 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-01-31 06:35:46 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2025-01-31 06:35:46 [scrapy.core.engine] INFO: Spider opened
+2025-01-31 06:35:46 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-01-31 06:35:46 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6031
+2025-01-31 06:35:46 [scrapy.downloadermiddlewares.offsite] DEBUG: Filtered offsite request to 'nonexistenturl.com': <GET http://nonexistenturl.com>
+2025-01-31 06:35:46 [scrapy.core.engine] INFO: Closing spider (finished)
+2025-01-31 06:35:46 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'elapsed_time_seconds': 0.003282,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 1, 31, 6, 35, 46, 711552, tzinfo=datetime.timezone.utc),
+ 'items_per_minute': None,
+ 'log_count/DEBUG': 6,
+ 'log_count/INFO': 10,
+ 'memusage/max': 65257472,
+ 'memusage/startup': 65257472,
+ 'offsite/domains': 1,
+ 'offsite/filtered': 1,
+ 'responses_per_minute': None,
+ 'start_time': datetime.datetime(2025, 1, 31, 6, 35, 46, 708270, tzinfo=datetime.timezone.utc)}
+2025-01-31 06:35:46 [scrapy.core.engine] INFO: Spider closed (finished)

@@ -5,9 +5,34 @@
 
 
 # useful for handling different item types with a single interface
-from itemadapter import ItemAdapter
+# from itemadapter import ItemAdapter
 
+
+# class ErrorsPipeline:
+#     def process_item(self, item, spider):
+#         """Process items and simulate errors."""
+#         if not item.get("url"):
+#             raise DropItem("Missing URL in item!")
+            
+#         if item.get("status") != 200:
+#             spider.logger.warning(f"Non-200 status code for URL: {item['url']}")
+#         return item
+
+from itemadapter import ItemAdapter
+from logs.error_handler import ErrorHandler
+from scrapy.exceptions import DropItem
+
+error_handler = ErrorHandler()
 
 class ErrorsPipeline:
     def process_item(self, item, spider):
+        """Process items and simulate errors."""
+        if not item.get("url"):
+            error_handler.log_error("DropItem", "Missing URL in item!", spider.name)
+            raise DropItem("Missing URL in item!")
+        
+        if item.get("status") != 200:
+            error_handler.log_error("Non-200 Status", f"Non-200 status code for URL: {item['url']}", spider.name)
+        
         return item
+
