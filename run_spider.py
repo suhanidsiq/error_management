@@ -30,7 +30,7 @@ def run_spider(spider_name):
 
     except KeyError as e:
         print(f"❌ ERROR: {e}")  # Console output
-        error_handler.log_error("SpiderNotFound", str(e), spider_name)
+        error_handler.log_error("Crawling Error","SpiderNotFound",1003, str(e), spider_name)
         sys.exit(1)  # Exit with error code
 
 if __name__ == "__main__":

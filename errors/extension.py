@@ -1,7 +1,7 @@
 from scrapy import signals
 from scrapy.exceptions import NotConfigured
 from scrapy.signalmanager import SignalManager
-from ..logs.error_handler import ErrorHandler
+from logs.error_handler import ErrorHandler
 
 class ErrorLoggingExtension:
 
@@ -28,6 +28,7 @@ class ErrorLoggingExtension:
         signal_manager.connect(self.handle_request_failed, signal=signals.request_failed)
 
     def spider_opened_handler(self, spider):
+        
         """Log when a spider is opened."""
         spider.logger.info(f"Spider {spider.name} opened.")
 
