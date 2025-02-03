@@ -2,7 +2,7 @@
 import sys
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
-from logs.error_handler import ErrorHandler
+from logs.error_handler import ErrorManager
 from scrapy.spiderloader import SpiderLoader
 from scrapy.utils.conf import init_env
 
@@ -10,7 +10,7 @@ from scrapy.utils.conf import init_env
 init_env()
 
 # Initialize error handler
-error_handler = ErrorHandler()
+error_handler = ErrorManager()
 
 def run_spider(spider_name):
     """Run a Scrapy spider and handle errors if the spider is not found."""
@@ -30,7 +30,7 @@ def run_spider(spider_name):
 
     except KeyError as e:
         print(f"❌ ERROR: {e}")  # Console output
-        error_handler.log_error("Crawling Error","SpiderNotFound",1003, str(e), spider_name)
+        error_handler.log_error("Crawling Error","SpiderNotFound",1003, str(e), spider_name, url = "N/A")
         sys.exit(1)  # Exit with error code
 
 if __name__ == "__main__":

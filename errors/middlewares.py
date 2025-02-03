@@ -5,6 +5,7 @@
 
 from scrapy import signals
 
+
 # useful for handling different item types with a single interface
 from itemadapter import is_item, ItemAdapter
 
@@ -13,6 +14,15 @@ class ErrorsSpiderMiddleware:
     # Not all methods need to be defined. If a method is not defined,
     # scrapy acts as if the spider middleware does not modify the
     # passed objects.
+    def __init__(self):
+        self.proxy = 'http://scraperapi:37c95f2cdd5d0f402065e4cf09825ef3@proxy-server.scraperapi.com:8001'
+    
+    def process_request(self, request, spider):
+        if 'proxy' not in request.meta:
+            request.meta['proxy'] = self.proxy
+    
+    def get_proxy(self):
+        return self.proxy
 
     @classmethod
     def from_crawler(cls, crawler):

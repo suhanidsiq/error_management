@@ -20194,5 +20194,2786 @@
         "spider": "error",
         "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=17&c=ts&qid=1738405245&ts_id=14253971&xpid=0akYcjl3Qh_on&ref=sr_pg_16",
         "timestamp": "2025-02-01 15:50:49"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "SpiderNotFound",
+        "error_code": 1003,
+        "error_message": "'Spider not found: errrror'",
+        "spider": "errrror",
+        "url": "N/A",
+        "timestamp": "2025-02-03 10:52:50"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "505 Response Error",
+        "error_code": 1002,
+        "error_message": "505 response received from https://httpbin.org/status/505",
+        "spider": "error",
+        "url": "https://httpbin.org/status/505",
+        "timestamp": "2025-02-03 10:53:11"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "508 Response Error",
+        "error_code": 1002,
+        "error_message": "508 response received from https://httpbin.org/status/508",
+        "spider": "error",
+        "url": "https://httpbin.org/status/508",
+        "timestamp": "2025-02-03 10:53:11"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "507 Response Error",
+        "error_code": 1002,
+        "error_message": "507 response received from https://httpbin.org/status/507",
+        "spider": "error",
+        "url": "https://httpbin.org/status/507",
+        "timestamp": "2025-02-03 10:53:11"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "506 Response Error",
+        "error_code": 1002,
+        "error_message": "506 response received from https://httpbin.org/status/506",
+        "spider": "error",
+        "url": "https://httpbin.org/status/506",
+        "timestamp": "2025-02-03 10:53:11"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "509 Response Error",
+        "error_code": 1002,
+        "error_message": "509 response received from https://httpbin.org/status/509",
+        "spider": "error",
+        "url": "https://httpbin.org/status/509",
+        "timestamp": "2025-02-03 10:53:11"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "502 Response Error",
+        "error_code": 1002,
+        "error_message": "502 response received from https://httpbin.org/status/502",
+        "spider": "error",
+        "url": "https://httpbin.org/status/502",
+        "timestamp": "2025-02-03 10:53:11"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "501 Response Error",
+        "error_code": 1002,
+        "error_message": "501 response received from https://httpbin.org/status/501",
+        "spider": "error",
+        "url": "https://httpbin.org/status/501",
+        "timestamp": "2025-02-03 10:53:11"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:12"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:13"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:13"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:13"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:13"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:13"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:13"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:13"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:13"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:13"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:13"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:13"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "No Items Found",
+        "error_code": 2002,
+        "error_message": "No items found on page: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 10:53:13"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "503 Response Error",
+        "error_code": 1002,
+        "error_message": "503 response received from https://httpbin.org/status/503",
+        "spider": "error",
+        "url": "https://httpbin.org/status/503",
+        "timestamp": "2025-02-03 10:53:13"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "504 Response Error",
+        "error_code": 1002,
+        "error_message": "504 response received from https://httpbin.org/status/504",
+        "spider": "error",
+        "url": "https://httpbin.org/status/504",
+        "timestamp": "2025-02-03 10:53:13"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:15"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=cydJuuQTEz5kE&c=ts&qid=1738560190&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 10:53:16"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:18"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:18"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:18"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:18"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:18"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:18"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:18"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:18"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:18"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:18"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:18"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:18"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:18"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:18"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738560193&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_2",
+        "timestamp": "2025-02-03 10:53:19"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:21"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:22"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:22"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:22"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:22"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:22"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:22"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:22"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:22"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:22"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:22"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:22"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738560196&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_3",
+        "timestamp": "2025-02-03 10:53:22"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:24"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:25"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:25"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:25"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:25"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:25"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:25"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:25"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:25"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:25"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:25"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:25"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738560200&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_4",
+        "timestamp": "2025-02-03 10:53:25"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:27"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "No Items Found",
+        "error_code": 2002,
+        "error_message": "No items found on page: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738560202&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_5",
+        "timestamp": "2025-02-03 10:53:28"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:30"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:30"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:30"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:30"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:30"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:30"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:30"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:30"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:30"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:31"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:32"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:32"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738560205&ts_id=14253971&xpid=cydJuuQTEz5kE&ref=sr_pg_6",
+        "timestamp": "2025-02-03 10:53:32"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "401 Response Error",
+        "error_code": 1002,
+        "error_message": "401 response received from https://httpbin.org/status/401",
+        "spider": "error",
+        "url": "https://httpbin.org/status/401",
+        "timestamp": "2025-02-03 10:56:08"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "404 Response Error",
+        "error_code": 1002,
+        "error_message": "404 response received from https://httpbin.org/status/404",
+        "spider": "error",
+        "url": "https://httpbin.org/status/404",
+        "timestamp": "2025-02-03 10:56:08"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "407 Response Error",
+        "error_code": 1002,
+        "error_message": "407 response received from https://httpbin.org/status/407",
+        "spider": "error",
+        "url": "https://httpbin.org/status/407",
+        "timestamp": "2025-02-03 10:56:09"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "402 Response Error",
+        "error_code": 1002,
+        "error_message": "402 response received from https://httpbin.org/status/402",
+        "spider": "error",
+        "url": "https://httpbin.org/status/402",
+        "timestamp": "2025-02-03 10:56:09"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "406 Response Error",
+        "error_code": 1002,
+        "error_message": "406 response received from https://httpbin.org/status/406",
+        "spider": "error",
+        "url": "https://httpbin.org/status/406",
+        "timestamp": "2025-02-03 10:56:09"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "409 Response Error",
+        "error_code": 1002,
+        "error_message": "409 response received from https://httpbin.org/status/409",
+        "spider": "error",
+        "url": "https://httpbin.org/status/409",
+        "timestamp": "2025-02-03 10:56:09"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "403 Response Error",
+        "error_code": 1002,
+        "error_message": "403 response received from https://httpbin.org/status/403",
+        "spider": "error",
+        "url": "https://httpbin.org/status/403",
+        "timestamp": "2025-02-03 10:56:09"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "400 Response Error",
+        "error_code": 1002,
+        "error_message": "400 response received from https://httpbin.org/status/400",
+        "spider": "error",
+        "url": "https://httpbin.org/status/400",
+        "timestamp": "2025-02-03 10:56:09"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "405 Response Error",
+        "error_code": 1002,
+        "error_message": "405 response received from https://httpbin.org/status/405",
+        "spider": "error",
+        "url": "https://httpbin.org/status/405",
+        "timestamp": "2025-02-03 10:56:09"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "408 Response Error",
+        "error_code": 1002,
+        "error_message": "408 response received from https://httpbin.org/status/408",
+        "spider": "error",
+        "url": "https://httpbin.org/status/408",
+        "timestamp": "2025-02-03 10:56:09"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/407: Could not open CONNECT tunnel with proxy pr.oxylabs.io:7777 [{'status': 407, 'reason': b'Proxy Authentication Required'}]",
+        "spider": "error",
+        "url": "https://httpbin.org/status/407",
+        "timestamp": "2025-02-03 11:45:40"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/402: Could not open CONNECT tunnel with proxy pr.oxylabs.io:7777 [{'status': 407, 'reason': b'Proxy Authentication Required'}]",
+        "spider": "error",
+        "url": "https://httpbin.org/status/402",
+        "timestamp": "2025-02-03 11:45:40"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/404: Could not open CONNECT tunnel with proxy pr.oxylabs.io:7777 [{'status': 407, 'reason': b'Proxy Authentication Required'}]",
+        "spider": "error",
+        "url": "https://httpbin.org/status/404",
+        "timestamp": "2025-02-03 11:45:40"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://www.amazon.com/b?node=14253971: Could not open CONNECT tunnel with proxy pr.oxylabs.io:7777 [{'status': 407, 'reason': b'Proxy Authentication Required'}]",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 11:45:40"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/406: Could not open CONNECT tunnel with proxy pr.oxylabs.io:7777 [{'status': 407, 'reason': b'Proxy Authentication Required'}]",
+        "spider": "error",
+        "url": "https://httpbin.org/status/406",
+        "timestamp": "2025-02-03 11:45:40"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/408: Could not open CONNECT tunnel with proxy pr.oxylabs.io:7777 [{'status': 407, 'reason': b'Proxy Authentication Required'}]",
+        "spider": "error",
+        "url": "https://httpbin.org/status/408",
+        "timestamp": "2025-02-03 11:45:40"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/403: Could not open CONNECT tunnel with proxy pr.oxylabs.io:7777 [{'status': 407, 'reason': b'Proxy Authentication Required'}]",
+        "spider": "error",
+        "url": "https://httpbin.org/status/403",
+        "timestamp": "2025-02-03 11:45:40"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/409: Could not open CONNECT tunnel with proxy pr.oxylabs.io:7777 [{'status': 407, 'reason': b'Proxy Authentication Required'}]",
+        "spider": "error",
+        "url": "https://httpbin.org/status/409",
+        "timestamp": "2025-02-03 11:45:43"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/405: Could not open CONNECT tunnel with proxy pr.oxylabs.io:7777 [{'status': 407, 'reason': b'Proxy Authentication Required'}]",
+        "spider": "error",
+        "url": "https://httpbin.org/status/405",
+        "timestamp": "2025-02-03 11:45:43"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/401: Could not open CONNECT tunnel with proxy pr.oxylabs.io:7777 [{'status': 407, 'reason': b'Proxy Authentication Required'}]",
+        "spider": "error",
+        "url": "https://httpbin.org/status/401",
+        "timestamp": "2025-02-03 11:45:43"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/408: TCP connection timed out: 110: Connection timed out.",
+        "spider": "error",
+        "url": "https://httpbin.org/status/408",
+        "timestamp": "2025-02-03 12:31:55"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/406: TCP connection timed out: 110: Connection timed out.",
+        "spider": "error",
+        "url": "https://httpbin.org/status/406",
+        "timestamp": "2025-02-03 12:31:55"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/405: TCP connection timed out: 110: Connection timed out.",
+        "spider": "error",
+        "url": "https://httpbin.org/status/405",
+        "timestamp": "2025-02-03 12:31:55"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/402: TCP connection timed out: 110: Connection timed out.",
+        "spider": "error",
+        "url": "https://httpbin.org/status/402",
+        "timestamp": "2025-02-03 12:31:55"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/404: TCP connection timed out: 110: Connection timed out.",
+        "spider": "error",
+        "url": "https://httpbin.org/status/404",
+        "timestamp": "2025-02-03 12:31:55"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/401: TCP connection timed out: 110: Connection timed out.",
+        "spider": "error",
+        "url": "https://httpbin.org/status/401",
+        "timestamp": "2025-02-03 12:31:55"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://www.amazon.com/b?node=14253971: TCP connection timed out: 110: Connection timed out.",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 12:31:55"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/409: TCP connection timed out: 110: Connection timed out.",
+        "spider": "error",
+        "url": "https://httpbin.org/status/409",
+        "timestamp": "2025-02-03 12:34:08"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/407: TCP connection timed out: 110: Connection timed out.",
+        "spider": "error",
+        "url": "https://httpbin.org/status/407",
+        "timestamp": "2025-02-03 12:34:08"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "Request Failure",
+        "error_code": 1001,
+        "error_message": "Request failed for https://httpbin.org/status/403: TCP connection timed out: 110: Connection timed out.",
+        "spider": "error",
+        "url": "https://httpbin.org/status/403",
+        "timestamp": "2025-02-03 12:34:08"
+    },
+    {
+        "error_category": "Crawling Error",
+        "error_subcategory": "SpiderNotFound",
+        "error_code": 1003,
+        "error_message": "'Spider not found: errorss'",
+        "spider": "errorss",
+        "url": "N/A",
+        "timestamp": "2025-02-03 12:39:59"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "No Items Found",
+        "error_code": 2002,
+        "error_message": "No items found on page: http://ident.me/",
+        "spider": "error",
+        "url": "http://ident.me/",
+        "timestamp": "2025-02-03 17:47:58"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data - Pagination",
+        "error_code": 2003,
+        "error_message": "Pagination element '.s-pagination-next' is missing but expected.",
+        "spider": "error",
+        "url": "http://ident.me/",
+        "timestamp": "2025-02-03 17:47:58"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Unexpected Parsing Error",
+        "error_code": 2003,
+        "error_message": "Error occurred while parsing: Cannot use css on a Selector of type 'json'",
+        "spider": "error",
+        "url": "https://httpbin.org/ip",
+        "timestamp": "2025-02-03 17:48:00"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 17:49:23"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=p7dWMXMrv1Xcx&c=ts&qid=1738585161&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=p7dWMXMrv1Xcx&c=ts&qid=1738585161&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 17:49:30"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=p7dWMXMrv1Xcx&c=ts&qid=1738585161&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=p7dWMXMrv1Xcx&c=ts&qid=1738585161&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 17:49:30"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=p7dWMXMrv1Xcx&c=ts&qid=1738585161&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=p7dWMXMrv1Xcx&c=ts&qid=1738585161&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 17:49:30"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738585170&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738585170&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_2",
+        "timestamp": "2025-02-03 17:49:37"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738585170&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738585170&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_2",
+        "timestamp": "2025-02-03 17:49:37"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738585170&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738585170&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_2",
+        "timestamp": "2025-02-03 17:49:37"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738585170&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738585170&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_2",
+        "timestamp": "2025-02-03 17:49:37"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738585170&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738585170&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_2",
+        "timestamp": "2025-02-03 17:49:37"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738585170&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_2",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738585170&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_2",
+        "timestamp": "2025-02-03 17:49:37"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "timestamp": "2025-02-03 17:49:42"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "timestamp": "2025-02-03 17:49:42"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "timestamp": "2025-02-03 17:49:42"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "timestamp": "2025-02-03 17:49:42"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "timestamp": "2025-02-03 17:49:42"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "timestamp": "2025-02-03 17:49:42"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "timestamp": "2025-02-03 17:49:42"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738585175&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_3",
+        "timestamp": "2025-02-03 17:49:42"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "timestamp": "2025-02-03 17:49:50"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "timestamp": "2025-02-03 17:49:50"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "timestamp": "2025-02-03 17:49:50"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "timestamp": "2025-02-03 17:49:50"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "timestamp": "2025-02-03 17:49:50"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "timestamp": "2025-02-03 17:49:50"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "timestamp": "2025-02-03 17:49:50"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738585181&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_4",
+        "timestamp": "2025-02-03 17:49:50"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "timestamp": "2025-02-03 17:49:55"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "timestamp": "2025-02-03 17:49:55"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "timestamp": "2025-02-03 17:49:55"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "timestamp": "2025-02-03 17:49:55"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "timestamp": "2025-02-03 17:49:55"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "timestamp": "2025-02-03 17:49:55"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "timestamp": "2025-02-03 17:49:55"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "timestamp": "2025-02-03 17:49:55"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "timestamp": "2025-02-03 17:49:55"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "timestamp": "2025-02-03 17:49:55"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "timestamp": "2025-02-03 17:49:55"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738585189&ts_id=14253971&xpid=p7dWMXMrv1Xcx&ref=sr_pg_5",
+        "timestamp": "2025-02-03 17:49:56"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/b?node=14253971",
+        "spider": "error",
+        "url": "https://www.amazon.com/b?node=14253971",
+        "timestamp": "2025-02-03 18:32:17"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=kHMFFeWslrmfl&c=ts&qid=1738587733&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=kHMFFeWslrmfl&c=ts&qid=1738587733&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 18:32:55"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=kHMFFeWslrmfl&c=ts&qid=1738587733&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=kHMFFeWslrmfl&c=ts&qid=1738587733&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 18:32:55"
+    },
+    {
+        "error_category": "Parsing Error",
+        "error_subcategory": "Missing Required Data",
+        "error_code": 2001,
+        "error_message": "Missing required item data for URL: https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=kHMFFeWslrmfl&c=ts&qid=1738587733&ts_id=14253971&ref=sr_pg_1",
+        "spider": "error",
+        "url": "https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=kHMFFeWslrmfl&c=ts&qid=1738587733&ts_id=14253971&ref=sr_pg_1",
+        "timestamp": "2025-02-03 18:32:55"
     }
 ]

@@ -55,21 +55,26 @@ DEFAULT_REQUEST_HEADERS = {
 
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
-#SPIDER_MIDDLEWARES = {
-#    "mopes.middlewares.MopesSpiderMiddleware": 543,
-#}
-
-# Enable or disable downloader middlewares
-# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-# DOWNLOADER_MIDDLEWARES = {
-#    "errors.middlewares.CustomMiddleware": 543,
+# SPIDER_MIDDLEWARES = {
+#    "errors.middlewares.ErrorsSpiderMiddleware": 350,
 # }
+
+# # Enable or disable downloader middlewares
+# # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
+DOWNLOADER_MIDDLEWARES = {
+   'errors.middlewares.ErrorsSpiderMiddleware': 700,
+}
+# DOWNLOADER_MIDDLEWARES = {
+#    #  'scrapy_rotating_proxies.middlewares.RotatingProxyMiddleware': 610,
+#     'scrapy_rotating_proxies.middlewares.BanDetectionMiddleware': 620,
+# }
+
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
-#EXTENSIONS = {
+# EXTENSIONS = {
 #    "scrapy.extensions.telnet.TelnetConsole": None,
-#}
+# }
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
@@ -102,8 +107,7 @@ DEFAULT_REQUEST_HEADERS = {
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
-LOG_LEVEL = "DEBUG"
-LOG_FILE = "amazon_scraper.log"
+
 
 # CUSTOM_SETTINGS = { 
 
@@ -126,4 +130,5 @@ ERROR_LOGGING_ENABLED = True
 LOG_FILE = 'logs/scrapy_log.json'
 LOG_LEVEL = 'DEBUG'
 
+ROTATING_PROXY_LIST_PATH = 'proxy_list.txt'
 
