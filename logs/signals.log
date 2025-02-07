@@ -1,0 +1,453 @@
+2025-02-06 16:16:33 - INFO - 🕷️ Spider 'error' started.
+2025-02-06 16:16:33 - INFO - 🚀 Scrapy engine started.
+2025-02-06 16:16:35 - INFO - ✅ Spider 'error' closed. Reason: finished
+2025-02-06 16:16:35 - INFO - 🛑 Scrapy engine stopped.
+2025-02-06 16:17:43 - INFO - Spider 'error' started.
+2025-02-06 16:17:43 - INFO - Scrapy engine started.
+2025-02-06 16:17:45 - INFO - Spider 'error' closed. Reason: finished
+2025-02-06 16:17:45 - INFO - Scrapy engine stopped.
+2025-02-06 16:20:45 - INFO - Spider 'error' started.
+2025-02-06 16:20:45 - INFO - Scrapy engine started.
+2025-02-06 16:20:47 - INFO - Spider 'error' closed. Reason: finished
+2025-02-06 16:20:47 - INFO - Scrapy engine stopped.
+2025-02-06 16:39:49 - INFO - Spider 'error' started.
+2025-02-06 16:39:49 - INFO - Scrapy engine started.
+2025-02-06 16:39:51 - INFO - Spider 'error' closed. Reason: finished
+2025-02-06 16:39:51 - INFO - Scrapy engine stopped.
+2025-02-06 17:01:30 - INFO - Spider 'error' started.
+2025-02-06 17:01:30 - INFO - Scrapy engine started.
+2025-02-06 17:01:31 - INFO - Response received (401) from https://httpbin.org/404
+2025-02-06 17:01:31 - INFO - Spider 'error' closed. Reason: finished
+2025-02-06 17:01:31 - INFO - Scrapy engine stopped.
+2025-02-06 17:02:02 - INFO - Spider 'error' started.
+2025-02-06 17:02:02 - INFO - Scrapy engine started.
+2025-02-06 17:02:03 - INFO - Response received (401) from https://www.amazon.com/b?node=14253971
+2025-02-06 17:02:03 - INFO - Spider 'error' closed. Reason: finished
+2025-02-06 17:02:03 - INFO - Scrapy engine stopped.
+2025-02-06 17:13:11 - INFO - Spider 'error' started.
+2025-02-06 17:13:11 - INFO - Scrapy engine started.
+2025-02-06 17:13:12 - INFO - Response received (401) from https://www.amazon.com/b?node=14253971
+2025-02-06 17:13:12 - INFO - Spider 'error' closed. Reason: finished
+2025-02-06 17:13:12 - INFO - Scrapy engine stopped.
+2025-02-06 17:24:11 - INFO - Spider 'error' started.
+2025-02-06 17:24:11 - INFO - Scrapy engine started.
+2025-02-06 17:24:13 - INFO - Spider 'error' closed. Reason: finished
+2025-02-06 17:24:13 - INFO - Scrapy engine stopped.
+2025-02-06 17:42:05 - INFO - Spider 'error' started.
+2025-02-06 17:42:05 - INFO - Scrapy engine started.
+2025-02-06 17:42:07 - INFO - Response received (200) from https://www.amazon.com/b?node=14253971
+2025-02-06 17:42:07 - INFO - Item scraped from https://www.amazon.com/b?node=14253971
+2025-02-06 17:42:08 - INFO - Item scraped from https://www.amazon.com/b?node=14253971
+2025-02-06 17:42:10 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=nBn8EOh51rJDK&c=ts&qid=1738843925&ts_id=14253971&ref=sr_pg_1
+2025-02-06 17:42:11 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=nBn8EOh51rJDK&c=ts&qid=1738843925&ts_id=14253971&ref=sr_pg_1
+2025-02-06 17:42:13 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738843929&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_2
+2025-02-06 17:42:13 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738843929&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_2
+2025-02-06 17:42:13 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738843929&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_2
+2025-02-06 17:42:13 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738843929&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_2
+2025-02-06 17:42:14 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738843929&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_2
+2025-02-06 17:42:16 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738843932&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_3
+2025-02-06 17:42:18 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738843932&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_3
+2025-02-06 17:42:18 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738843932&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_3
+2025-02-06 17:42:19 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738843935&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_4
+2025-02-06 17:42:19 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738843935&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_4
+2025-02-06 17:42:20 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738843935&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_4
+2025-02-06 17:42:20 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738843935&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_4
+2025-02-06 17:42:20 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738843935&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_4
+2025-02-06 17:42:21 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738843935&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_4
+2025-02-06 17:42:22 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738843938&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_5
+2025-02-06 17:42:22 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738843938&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_5
+2025-02-06 17:42:23 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738843938&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_5
+2025-02-06 17:42:23 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738843938&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_5
+2025-02-06 17:42:25 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738843941&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_6
+2025-02-06 17:42:26 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738843941&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_6
+2025-02-06 17:42:26 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738843941&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_6
+2025-02-06 17:42:27 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738843941&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_6
+2025-02-06 17:42:29 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=8&c=ts&qid=1738843943&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_7
+2025-02-06 17:42:30 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=8&c=ts&qid=1738843943&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_7
+2025-02-06 17:42:32 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=9&c=ts&qid=1738843947&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_8
+2025-02-06 17:42:34 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=9&c=ts&qid=1738843947&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_8
+2025-02-06 17:42:36 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=10&c=ts&qid=1738843950&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_9
+2025-02-06 17:42:39 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738843953&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_10
+2025-02-06 17:42:40 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738843953&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_10
+2025-02-06 17:42:40 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738843953&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_10
+2025-02-06 17:42:40 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738843953&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_10
+2025-02-06 17:42:40 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738843953&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_10
+2025-02-06 17:42:42 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=12&c=ts&qid=1738843957&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_11
+2025-02-06 17:42:43 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=12&c=ts&qid=1738843957&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_11
+2025-02-06 17:42:44 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=13&c=ts&qid=1738843960&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_12
+2025-02-06 17:42:48 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=14&c=ts&qid=1738843964&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_13
+2025-02-06 17:42:51 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=15&c=ts&qid=1738843966&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_14
+2025-02-06 17:42:52 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=15&c=ts&qid=1738843966&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_14
+2025-02-06 17:42:54 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=16&c=ts&qid=1738843970&ts_id=14253971&xpid=nBn8EOh51rJDK&ref=sr_pg_15
+2025-02-06 17:42:56 - INFO - Spider 'error' closed. Reason: finished
+2025-02-06 17:42:56 - INFO - Scrapy engine stopped.
+2025-02-06 18:45:15 - INFO - Spider 'error' started.
+2025-02-06 18:45:15 - INFO - Scrapy engine started.
+2025-02-06 18:45:16 - INFO - Response received (200) from https://www.amazon.com/b?node=14253971
+2025-02-06 18:45:17 - INFO - Item scraped from https://www.amazon.com/b?node=14253971
+2025-02-06 18:45:17 - INFO - Item scraped from https://www.amazon.com/b?node=14253971
+2025-02-06 18:45:20 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=aLY8eNjiYPoyJ&c=ts&qid=1738847714&ts_id=14253971&ref=sr_pg_1
+2025-02-06 18:45:21 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=aLY8eNjiYPoyJ&c=ts&qid=1738847714&ts_id=14253971&ref=sr_pg_1
+2025-02-06 18:45:22 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738847718&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_2
+2025-02-06 18:45:22 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738847718&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_2
+2025-02-06 18:45:23 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738847718&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_2
+2025-02-06 18:45:24 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738847718&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_2
+2025-02-06 18:45:26 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738847721&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_3
+2025-02-06 18:45:26 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738847721&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_3
+2025-02-06 18:45:28 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738847721&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_3
+2025-02-06 18:45:28 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738847721&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_3
+2025-02-06 18:45:28 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738847721&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_3
+2025-02-06 18:45:30 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738847725&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_4
+2025-02-06 18:45:31 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738847725&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_4
+2025-02-06 18:45:31 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738847725&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_4
+2025-02-06 18:45:31 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738847725&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_4
+2025-02-06 18:45:32 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738847725&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_4
+2025-02-06 18:45:33 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738847728&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_5
+2025-02-06 18:45:34 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738847728&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_5
+2025-02-06 18:45:34 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738847728&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_5
+2025-02-06 18:45:35 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738847728&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_5
+2025-02-06 18:45:37 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738847732&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_6
+2025-02-06 18:45:38 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738847732&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_6
+2025-02-06 18:45:38 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738847732&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_6
+2025-02-06 18:45:38 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738847732&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_6
+2025-02-06 18:45:40 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=8&c=ts&qid=1738847735&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_7
+2025-02-06 18:45:41 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=8&c=ts&qid=1738847735&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_7
+2025-02-06 18:45:44 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=9&c=ts&qid=1738847738&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_8
+2025-02-06 18:45:48 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=10&c=ts&qid=1738847742&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_9
+2025-02-06 18:45:48 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=10&c=ts&qid=1738847742&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_9
+2025-02-06 18:45:52 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738847746&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_10
+2025-02-06 18:45:52 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738847746&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_10
+2025-02-06 18:45:52 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738847746&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_10
+2025-02-06 18:45:53 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738847746&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_10
+2025-02-06 18:45:54 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=12&c=ts&qid=1738847750&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_11
+2025-02-06 18:45:56 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=12&c=ts&qid=1738847750&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_11
+2025-02-06 18:45:57 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=13&c=ts&qid=1738847753&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_12
+2025-02-06 18:46:01 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=14&c=ts&qid=1738847756&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_13
+2025-02-06 18:46:04 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=15&c=ts&qid=1738847760&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_14
+2025-02-06 18:46:05 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=15&c=ts&qid=1738847760&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_14
+2025-02-06 18:46:08 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=16&c=ts&qid=1738847763&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_15
+2025-02-06 18:46:08 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=16&c=ts&qid=1738847763&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_15
+2025-02-06 18:46:08 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=16&c=ts&qid=1738847763&ts_id=14253971&xpid=aLY8eNjiYPoyJ&ref=sr_pg_15
+2025-02-06 18:46:10 - INFO - Spider 'error' closed. Reason: finished
+2025-02-06 18:46:10 - INFO - Scrapy engine stopped.
+2025-02-06 19:01:07 - INFO - Spider 'error' started.
+2025-02-06 19:01:07 - INFO - Scrapy engine started.
+2025-02-06 19:01:09 - INFO - Response received (200) from https://www.amazon.com/b?node=14253971
+2025-02-06 19:01:10 - INFO - Item scraped from https://www.amazon.com/b?node=14253971
+2025-02-06 19:01:10 - INFO - Item scraped from https://www.amazon.com/b?node=14253971
+2025-02-06 19:01:13 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=fDd6f12appr3l&c=ts&qid=1738848668&ts_id=14253971&ref=sr_pg_1
+2025-02-06 19:01:15 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=fDd6f12appr3l&c=ts&qid=1738848668&ts_id=14253971&ref=sr_pg_1
+2025-02-06 19:01:18 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738848672&ts_id=14253971&xpid=fDd6f12appr3l&ref=sr_pg_2
+2025-02-06 19:01:18 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738848672&ts_id=14253971&xpid=fDd6f12appr3l&ref=sr_pg_2
+2025-02-06 19:01:18 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738848672&ts_id=14253971&xpid=fDd6f12appr3l&ref=sr_pg_2
+2025-02-06 19:01:19 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738848672&ts_id=14253971&xpid=fDd6f12appr3l&ref=sr_pg_2
+2025-02-06 19:01:21 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738848676&ts_id=14253971&xpid=fDd6f12appr3l&ref=sr_pg_3
+2025-02-06 19:01:22 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738848676&ts_id=14253971&xpid=fDd6f12appr3l&ref=sr_pg_3
+2025-02-06 19:01:24 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738848676&ts_id=14253971&xpid=fDd6f12appr3l&ref=sr_pg_3
+2025-02-06 19:01:24 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738848676&ts_id=14253971&xpid=fDd6f12appr3l&ref=sr_pg_3
+2025-02-06 19:01:26 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738848680&ts_id=14253971&xpid=fDd6f12appr3l&ref=sr_pg_4
+2025-02-06 19:01:26 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738848680&ts_id=14253971&xpid=fDd6f12appr3l&ref=sr_pg_4
+2025-02-06 19:01:26 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738848680&ts_id=14253971&xpid=fDd6f12appr3l&ref=sr_pg_4
+2025-02-06 19:01:27 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738848680&ts_id=14253971&xpid=fDd6f12appr3l&ref=sr_pg_4
+2025-02-06 19:01:28 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738848680&ts_id=14253971&xpid=fDd6f12appr3l&ref=sr_pg_4
+2025-02-06 19:08:21 - INFO - Spider 'error' started.
+2025-02-06 19:08:21 - INFO - Scrapy engine started.
+2025-02-06 19:08:22 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-06 19:08:22 - INFO - Spider 'error' closed. Reason: finished
+2025-02-06 19:08:22 - INFO - Scrapy engine stopped.
+2025-02-06 19:21:09 - INFO - Spider 'error' started.
+2025-02-06 19:21:09 - INFO - Scrapy engine started.
+2025-02-06 19:21:11 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-06 19:21:12 - INFO - Spider 'error' closed. Reason: finished
+2025-02-06 19:21:12 - INFO - Scrapy engine stopped.
+2025-02-06 19:22:02 - INFO - Spider 'error' started.
+2025-02-06 19:22:02 - INFO - Scrapy engine started.
+2025-02-06 19:22:03 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-06 19:22:04 - INFO - Spider 'error' closed. Reason: finished
+2025-02-06 19:22:04 - INFO - Scrapy engine stopped.
+2025-02-07 10:20:36 - INFO - Spider 'error' started.
+2025-02-07 10:20:36 - INFO - Scrapy engine started.
+2025-02-07 10:20:37 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-07 10:20:37 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 10:20:37 - INFO - Scrapy engine stopped.
+2025-02-07 10:48:58 - INFO - Spider 'error' started.
+2025-02-07 10:48:58 - INFO - Scrapy engine started.
+2025-02-07 10:48:59 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-07 10:48:59 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 10:48:59 - INFO - Scrapy engine stopped.
+2025-02-07 10:51:14 - INFO - Spider 'error' started.
+2025-02-07 10:51:14 - INFO - Scrapy engine started.
+2025-02-07 10:51:15 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-07 10:51:15 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 10:51:15 - INFO - Scrapy engine stopped.
+2025-02-07 10:52:52 - INFO - Spider 'error' started.
+2025-02-07 10:52:52 - INFO - Scrapy engine started.
+2025-02-07 10:52:53 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-07 10:52:53 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 10:52:53 - INFO - Scrapy engine stopped.
+2025-02-07 10:53:37 - INFO - Spider 'error' started.
+2025-02-07 10:53:37 - INFO - Scrapy engine started.
+2025-02-07 10:53:38 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-07 10:53:38 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 10:53:38 - INFO - Scrapy engine stopped.
+2025-02-07 10:54:31 - INFO - Spider 'error' started.
+2025-02-07 10:54:31 - INFO - Scrapy engine started.
+2025-02-07 10:54:32 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-07 10:54:32 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 10:54:32 - INFO - Scrapy engine stopped.
+2025-02-07 11:12:45 - INFO - Spider 'error' started.
+2025-02-07 11:12:45 - INFO - Scrapy engine started.
+2025-02-07 11:12:46 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-07 11:12:46 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 11:12:46 - INFO - Scrapy engine stopped.
+2025-02-07 11:17:23 - INFO - Spider 'error' started.
+2025-02-07 11:17:23 - INFO - Scrapy engine started.
+2025-02-07 11:17:24 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-07 11:17:24 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 11:17:24 - INFO - Scrapy engine stopped.
+2025-02-07 11:23:05 - INFO - Spider 'error' started.
+2025-02-07 11:23:05 - INFO - Scrapy engine started.
+2025-02-07 11:23:06 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-07 11:23:06 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 11:23:06 - INFO - Scrapy engine stopped.
+2025-02-07 11:52:27 - INFO - Spider 'error' started.
+2025-02-07 11:52:27 - INFO - Scrapy engine started.
+2025-02-07 11:52:28 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-07 11:52:28 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 11:52:28 - INFO - Scrapy engine stopped.
+2025-02-07 11:55:06 - INFO - Spider 'error' started.
+2025-02-07 11:55:06 - INFO - Scrapy engine started.
+2025-02-07 11:55:07 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-07 11:55:08 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 11:55:08 - INFO - Scrapy engine stopped.
+2025-02-07 12:15:11 - INFO - Spider 'error' started.
+2025-02-07 12:15:11 - INFO - Scrapy engine started.
+2025-02-07 12:15:12 - INFO - Response received (400) from https://httpbin.org/status/400
+2025-02-07 12:15:12 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 12:15:12 - INFO - Scrapy engine stopped.
+2025-02-07 12:15:34 - INFO - Spider 'error' started.
+2025-02-07 12:15:34 - INFO - Scrapy engine started.
+2025-02-07 12:15:33 - INFO - Response received (600) from https://httpbin.org/status/600
+2025-02-07 12:15:34 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 12:15:34 - INFO - Scrapy engine stopped.
+2025-02-07 12:16:22 - INFO - Spider 'error' started.
+2025-02-07 12:16:22 - INFO - Scrapy engine started.
+2025-02-07 12:16:24 - INFO - Response received (200) from https://www.amazon.com/b?node=14253971
+2025-02-07 12:16:25 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=2YVLrTaYs412W&c=ts&qid=1738910781&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:16:25 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=2YVLrTaYs412W&c=ts&qid=1738910781&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:16:26 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=2YVLrTaYs412W&c=ts&qid=1738910781&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:16:27 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738910783&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_2
+2025-02-07 12:16:27 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738910783&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_2
+2025-02-07 12:16:27 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738910783&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_2
+2025-02-07 12:16:29 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738910785&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_3
+2025-02-07 12:16:29 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738910785&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_3
+2025-02-07 12:16:29 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738910785&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_3
+2025-02-07 12:16:31 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738910786&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_4
+2025-02-07 12:16:31 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738910786&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_4
+2025-02-07 12:16:31 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738910786&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_4
+2025-02-07 12:16:31 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738910786&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_4
+2025-02-07 12:16:31 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738910786&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_4
+2025-02-07 12:16:32 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738910788&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_5
+2025-02-07 12:16:32 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738910788&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_5
+2025-02-07 12:16:33 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738910788&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_5
+2025-02-07 12:16:33 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738910788&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_5
+2025-02-07 12:16:33 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738910788&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_5
+2025-02-07 12:16:34 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738910790&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_6
+2025-02-07 12:16:34 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738910790&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_6
+2025-02-07 12:16:35 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738910790&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_6
+2025-02-07 12:16:35 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=8&c=ts&qid=1738910791&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_7
+2025-02-07 12:16:35 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=8&c=ts&qid=1738910791&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_7
+2025-02-07 12:16:37 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=9&c=ts&qid=1738910793&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_8
+2025-02-07 12:16:37 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=9&c=ts&qid=1738910793&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_8
+2025-02-07 12:16:39 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=10&c=ts&qid=1738910796&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_9
+2025-02-07 12:16:39 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=10&c=ts&qid=1738910796&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_9
+2025-02-07 12:16:41 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738910798&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_10
+2025-02-07 12:16:41 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738910798&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_10
+2025-02-07 12:16:41 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738910798&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_10
+2025-02-07 12:16:42 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=12&c=ts&qid=1738910799&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_11
+2025-02-07 12:16:43 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=12&c=ts&qid=1738910799&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_11
+2025-02-07 12:16:44 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=13&c=ts&qid=1738910801&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_12
+2025-02-07 12:16:46 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=14&c=ts&qid=1738910802&ts_id=14253971&xpid=2YVLrTaYs412W&ref=sr_pg_13
+2025-02-07 12:16:46 - INFO - Spider 'error' closed. Reason: shutdown
+2025-02-07 12:16:46 - INFO - Scrapy engine stopped.
+2025-02-07 12:24:24 - INFO - Spider 'error' started.
+2025-02-07 12:24:24 - INFO - Scrapy engine started.
+2025-02-07 12:24:26 - INFO - Response received (200) from https://www.amazon.com/b?node=14253971
+2025-02-07 12:24:28 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=wOQRO4MBuFktI&c=ts&qid=1738911264&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:24:28 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=wOQRO4MBuFktI&c=ts&qid=1738911264&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:24:30 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738911266&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_2
+2025-02-07 12:24:30 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738911266&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_2
+2025-02-07 12:24:30 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738911266&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_2
+2025-02-07 12:24:30 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738911266&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_2
+2025-02-07 12:24:32 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738911268&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_3
+2025-02-07 12:24:33 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738911268&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_3
+2025-02-07 12:24:33 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738911268&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_3
+2025-02-07 12:24:33 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738911268&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_3
+2025-02-07 12:24:33 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738911268&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_3
+2025-02-07 12:24:34 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738911270&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_4
+2025-02-07 12:24:34 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738911270&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_4
+2025-02-07 12:24:34 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738911270&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_4
+2025-02-07 12:24:34 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738911270&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_4
+2025-02-07 12:24:36 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738911272&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_5
+2025-02-07 12:24:36 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738911272&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_5
+2025-02-07 12:24:36 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738911272&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_5
+2025-02-07 12:24:36 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738911272&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_5
+2025-02-07 12:24:36 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738911272&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_5
+2025-02-07 12:24:39 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738911274&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_6
+2025-02-07 12:24:39 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738911274&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_6
+2025-02-07 12:24:39 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738911274&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_6
+2025-02-07 12:24:41 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=8&c=ts&qid=1738911276&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_7
+2025-02-07 12:24:41 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=8&c=ts&qid=1738911276&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_7
+2025-02-07 12:24:43 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=9&c=ts&qid=1738911278&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_8
+2025-02-07 12:24:43 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=9&c=ts&qid=1738911278&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_8
+2025-02-07 12:24:43 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=10&c=ts&qid=1738911280&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_9
+2025-02-07 12:24:43 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=10&c=ts&qid=1738911280&ts_id=14253971&xpid=wOQRO4MBuFktI&ref=sr_pg_9
+2025-02-07 12:24:43 - INFO - Spider 'error' closed. Reason: shutdown
+2025-02-07 12:24:43 - INFO - Scrapy engine stopped.
+2025-02-07 12:26:02 - INFO - Spider 'error' started.
+2025-02-07 12:26:02 - INFO - Scrapy engine started.
+2025-02-07 12:26:03 - INFO - Response received (600) from https://httpbin.org/status/600
+2025-02-07 12:26:03 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 12:26:03 - INFO - Scrapy engine stopped.
+2025-02-07 12:30:39 - INFO - Spider 'error' started.
+2025-02-07 12:30:39 - INFO - Scrapy engine started.
+2025-02-07 12:30:40 - INFO - Response received (600) from https://httpbin.org/status/600
+2025-02-07 12:30:40 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 12:30:40 - INFO - Scrapy engine stopped.
+2025-02-07 12:38:14 - INFO - Spider 'error' started.
+2025-02-07 12:38:14 - INFO - Scrapy engine started.
+2025-02-07 12:38:15 - INFO - Response received (600) from https://httpbin.org/status/600
+2025-02-07 12:38:15 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 12:38:15 - INFO - Scrapy engine stopped.
+2025-02-07 12:39:42 - INFO - Spider 'error' started.
+2025-02-07 12:39:42 - INFO - Scrapy engine started.
+2025-02-07 12:39:43 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-07 12:39:43 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 12:39:43 - INFO - Scrapy engine stopped.
+2025-02-07 12:40:22 - INFO - Spider 'error' started.
+2025-02-07 12:40:22 - INFO - Scrapy engine started.
+2025-02-07 12:40:24 - INFO - Response received (200) from https://www.amazon.com/b?node=14253971
+2025-02-07 12:40:26 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=LfKx902BtGjKk&c=ts&qid=1738912221&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:40:26 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=LfKx902BtGjKk&c=ts&qid=1738912221&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:40:26 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=LfKx902BtGjKk&c=ts&qid=1738912221&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:40:26 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=LfKx902BtGjKk&c=ts&qid=1738912221&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:40:26 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=LfKx902BtGjKk&c=ts&qid=1738912221&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:40:27 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738912223&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_2
+2025-02-07 12:40:28 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738912223&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_2
+2025-02-07 12:40:28 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738912225&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_3
+2025-02-07 12:40:28 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738912225&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_3
+2025-02-07 12:40:28 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738912225&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_3
+2025-02-07 12:40:28 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738912225&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_3
+2025-02-07 12:40:29 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912226&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_4
+2025-02-07 12:40:29 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912226&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_4
+2025-02-07 12:40:29 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912226&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_4
+2025-02-07 12:40:29 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912226&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_4
+2025-02-07 12:40:29 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912226&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_4
+2025-02-07 12:40:30 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912226&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_4
+2025-02-07 12:40:31 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738912228&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_5
+2025-02-07 12:40:31 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738912228&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_5
+2025-02-07 12:40:33 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738912230&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_6
+2025-02-07 12:40:33 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738912230&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_6
+2025-02-07 12:40:33 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738912230&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_6
+2025-02-07 12:40:35 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=8&c=ts&qid=1738912231&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_7
+2025-02-07 12:40:35 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=8&c=ts&qid=1738912231&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_7
+2025-02-07 12:40:35 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=8&c=ts&qid=1738912231&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_7
+2025-02-07 12:40:37 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=9&c=ts&qid=1738912233&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_8
+2025-02-07 12:40:37 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=9&c=ts&qid=1738912233&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_8
+2025-02-07 12:40:37 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=9&c=ts&qid=1738912233&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_8
+2025-02-07 12:40:37 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=9&c=ts&qid=1738912233&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_8
+2025-02-07 12:40:39 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=10&c=ts&qid=1738912235&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_9
+2025-02-07 12:40:39 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=10&c=ts&qid=1738912235&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_9
+2025-02-07 12:40:41 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738912237&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_10
+2025-02-07 12:40:41 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738912237&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_10
+2025-02-07 12:40:41 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738912237&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_10
+2025-02-07 12:40:43 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=12&c=ts&qid=1738912239&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_11
+2025-02-07 12:40:43 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=12&c=ts&qid=1738912239&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_11
+2025-02-07 12:40:45 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=13&c=ts&qid=1738912241&ts_id=14253971&xpid=LfKx902BtGjKk&ref=sr_pg_12
+2025-02-07 12:44:27 - INFO - Spider 'error' started.
+2025-02-07 12:44:27 - INFO - Scrapy engine started.
+2025-02-07 12:44:29 - INFO - Response received (200) from https://www.amazon.com/b?node=14253971
+2025-02-07 12:44:29 - INFO - Item scraped from https://www.amazon.com/b?node=14253971
+2025-02-07 12:44:31 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=OIF58_cGJFBiK&c=ts&qid=1738912466&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:44:31 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=OIF58_cGJFBiK&c=ts&qid=1738912466&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:44:31 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=OIF58_cGJFBiK&c=ts&qid=1738912466&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:44:32 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738912468&ts_id=14253971&xpid=OIF58_cGJFBiK&ref=sr_pg_2
+2025-02-07 12:44:33 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738912468&ts_id=14253971&xpid=OIF58_cGJFBiK&ref=sr_pg_2
+2025-02-07 12:44:31 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738912468&ts_id=14253971&xpid=OIF58_cGJFBiK&ref=sr_pg_2
+2025-02-07 12:44:32 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738912470&ts_id=14253971&xpid=OIF58_cGJFBiK&ref=sr_pg_3
+2025-02-07 12:44:32 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738912470&ts_id=14253971&xpid=OIF58_cGJFBiK&ref=sr_pg_3
+2025-02-07 12:44:33 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738912470&ts_id=14253971&xpid=OIF58_cGJFBiK&ref=sr_pg_3
+2025-02-07 12:44:35 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912471&ts_id=14253971&xpid=OIF58_cGJFBiK&ref=sr_pg_4
+2025-02-07 12:44:35 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912471&ts_id=14253971&xpid=OIF58_cGJFBiK&ref=sr_pg_4
+2025-02-07 12:44:35 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912471&ts_id=14253971&xpid=OIF58_cGJFBiK&ref=sr_pg_4
+2025-02-07 12:44:35 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912471&ts_id=14253971&xpid=OIF58_cGJFBiK&ref=sr_pg_4
+2025-02-07 12:44:37 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738912473&ts_id=14253971&xpid=OIF58_cGJFBiK&ref=sr_pg_5
+2025-02-07 12:44:38 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738912473&ts_id=14253971&xpid=OIF58_cGJFBiK&ref=sr_pg_5
+2025-02-07 12:44:38 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738912473&ts_id=14253971&xpid=OIF58_cGJFBiK&ref=sr_pg_5
+2025-02-07 12:44:38 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738912473&ts_id=14253971&xpid=OIF58_cGJFBiK&ref=sr_pg_5
+2025-02-07 12:44:38 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738912473&ts_id=14253971&xpid=OIF58_cGJFBiK&ref=sr_pg_5
+2025-02-07 12:44:38 - INFO - Spider 'error' closed. Reason: shutdown
+2025-02-07 12:44:38 - INFO - Scrapy engine stopped.
+2025-02-07 12:53:05 - INFO - Spider 'error' started.
+2025-02-07 12:53:05 - INFO - Scrapy engine started.
+2025-02-07 12:53:06 - INFO - Response received (200) from https://www.amazon.com/b?node=14253971
+2025-02-07 12:53:08 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=gyGpB3O_EjouW&c=ts&qid=1738912984&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:53:08 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=gyGpB3O_EjouW&c=ts&qid=1738912984&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:53:09 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=gyGpB3O_EjouW&c=ts&qid=1738912984&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:53:09 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=2&xpid=gyGpB3O_EjouW&c=ts&qid=1738912984&ts_id=14253971&ref=sr_pg_1
+2025-02-07 12:53:11 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738912985&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_2
+2025-02-07 12:53:11 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738912985&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_2
+2025-02-07 12:53:11 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738912985&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_2
+2025-02-07 12:53:11 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=3&c=ts&qid=1738912985&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_2
+2025-02-07 12:53:11 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738912987&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_3
+2025-02-07 12:53:11 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738912987&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_3
+2025-02-07 12:53:11 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738912987&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_3
+2025-02-07 12:53:11 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=4&c=ts&qid=1738912987&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_3
+2025-02-07 12:53:12 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912990&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_4
+2025-02-07 12:53:12 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912990&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_4
+2025-02-07 12:53:12 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912990&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_4
+2025-02-07 12:53:12 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912990&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_4
+2025-02-07 12:53:12 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912990&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_4
+2025-02-07 12:53:13 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=5&c=ts&qid=1738912990&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_4
+2025-02-07 12:53:14 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738912991&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_5
+2025-02-07 12:53:14 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=6&c=ts&qid=1738912991&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_5
+2025-02-07 12:53:16 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738912993&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_6
+2025-02-07 12:53:16 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738912993&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_6
+2025-02-07 12:53:16 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=7&c=ts&qid=1738912993&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_6
+2025-02-07 12:53:17 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=8&c=ts&qid=1738912994&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_7
+2025-02-07 12:53:18 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=8&c=ts&qid=1738912994&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_7
+2025-02-07 12:53:18 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=8&c=ts&qid=1738912994&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_7
+2025-02-07 12:53:19 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=9&c=ts&qid=1738912996&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_8
+2025-02-07 12:53:20 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=9&c=ts&qid=1738912996&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_8
+2025-02-07 12:53:21 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=10&c=ts&qid=1738912998&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_9
+2025-02-07 12:53:21 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=10&c=ts&qid=1738912998&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_9
+2025-02-07 12:53:23 - INFO - Response received (200) from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738913000&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_10
+2025-02-07 12:53:23 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738913000&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_10
+2025-02-07 12:53:23 - INFO - Item scraped from https://www.amazon.com/s?k=Mop+Handles&i=hpc&rh=n%3A14253971&page=11&c=ts&qid=1738913000&ts_id=14253971&xpid=gyGpB3O_EjouW&ref=sr_pg_10
+2025-02-07 12:53:23 - INFO - Spider 'error' closed. Reason: shutdown
+2025-02-07 12:53:23 - INFO - Scrapy engine stopped.
+2025-02-07 14:43:42 - INFO - Spider 'error' started.
+2025-02-07 14:43:42 - INFO - Scrapy engine started.
+2025-02-07 14:43:43 - INFO - Response received (300) from https://httpbin.org/status/300
+2025-02-07 14:43:43 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 14:43:43 - INFO - Scrapy engine stopped.
+2025-02-07 14:45:03 - INFO - Spider 'error' started.
+2025-02-07 14:45:03 - INFO - Scrapy engine started.
+2025-02-07 14:45:03 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 14:45:03 - INFO - Scrapy engine stopped.
+2025-02-07 14:47:14 - INFO - Spider 'error' started.
+2025-02-07 14:47:14 - INFO - Scrapy engine started.
+2025-02-07 14:47:15 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 14:47:15 - INFO - Scrapy engine stopped.
+2025-02-07 14:49:17 - INFO - Spider 'error' started.
+2025-02-07 14:49:17 - INFO - Scrapy engine started.
+2025-02-07 14:49:18 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-07 14:49:18 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 14:49:18 - INFO - Scrapy engine stopped.
+2025-02-07 14:50:10 - INFO - Spider 'error' started.
+2025-02-07 14:50:10 - INFO - Scrapy engine started.
+2025-02-07 14:50:12 - INFO - Response received (200) from https://httpbin.org/status/200
+2025-02-07 14:50:12 - INFO - Response received (400) from https://httpbin.org/status/400
+2025-02-07 14:50:12 - INFO - Response received (300) from https://httpbin.org/status/300
+2025-02-07 14:50:12 - INFO - Spider 'error' closed. Reason: finished
+2025-02-07 14:50:12 - INFO - Scrapy engine stopped.

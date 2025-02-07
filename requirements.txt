@@ -23,12 +23,13 @@ pyasn1_modules==0.4.1
 pycparser==2.22
 PyDispatcher==2.0.7
 pyOpenSSL==25.0.0
+python-dotenv==1.0.1
 pytz==2025.1
 queuelib==1.7.0
 requests==2.32.3
 requests-file==2.1.0
 Scrapy==2.12.0
-scrapy-rotating-proxies==0.6.2
+
 service-identity==24.2.0
 setuptools==75.8.0
 six==1.17.0

@@ -1,62 +1,66 @@
 import os
+import requests
+from logs.error_handler import ErrorManager
+
 import logging
-from urllib.parse import urlencode
-from dotenv import load_dotenv
 
-# Load environment variables from .env file
-load_dotenv()
+# Load your keys from the .env file (assuming you're using python-dotenv to load them)
+SCRAPER_API_KEY = os.getenv("SCRAPER_API_KEY")
+SCRAPER_OPS_KEY = os.getenv("SCRAPER_OPS_KEY")
 
-class ProxyManager:
-    """
-    This class generates proxy URLs for different proxy providers.
-    """
-
-    def __init__(self):
-        # Read API keys from environment variables
-        self.api_keys = {
-            "scraperapi": os.getenv("SCRAPER_API_KEY"),  # API key for ScraperAPI
-            "scrapeops": os.getenv("SCRAPEOPS_API_KEY"),  # API key for ScrapeOps
-        }
-
-    def get_proxy_url(self, url, proxy_name):
-        """
-        Generates a proxy URL for a given proxy provider.
+# Function to fetch current usage stats from Scraper API
+def get_api_usage(self,spider):
+    url = f"http://api.scraperapi.com/account?api_key={SCRAPER_API_KEY}"
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Check for errors in the response
+        data = response.json()
         
-        :param url: The target website URL
-        :param proxy_name: The proxy provider ("scraperapi" or "scrapeops")
-        :return: A fully formatted proxy URL
-        """
+        request_count = data.get("requestCount", 0)
+        request_limit = data.get("requestLimit", 0)
+        message = (f"API Usage: {request_count}/{request_limit}")
+        logging.info(message)
+        # self.error_handler.log_signal(message)
+        return request_count, request_limit
+        
+    except Exception as e:
+        print(f"Error fetching API usage: {e}")
+        return None, None
 
-        try:
-            # Check if the API key exists
-            if proxy_name not in self.api_keys or not self.api_keys[proxy_name]:
-                raise ValueError(f"API key for {proxy_name} is not configured.")
+# Function to decide whether to switch to Scraper Ops
+def should_switch():
+    request_count, request_limit = get_api_usage()
 
-            # Strip URL to remove extra spaces
-            stripped_url = url.strip()
+    if request_count is None or request_limit is None:
+        print("Unable to retrieve usage data.")
+        return False
 
-            # Create a payload (query parameters) for the proxy request
-            payload = {
-                "url": stripped_url,
-                "api_key": self.api_keys[proxy_name],  # Inject API key
-                "country_code": "US"  # Target a specific country (optional)
-            }
+    # Check if the request count has reached the limit
+    if request_count >= request_limit:
+        return True
 
-            # Define the base URLs for proxy services
-            base_urls = {
-                "scraperapi": "http://api.scraperapi.com/",
-                "scrapeops": "https://proxy.scrapeops.io/v1/",
-            }
+    return False
 
-            # Ensure the selected proxy provider is valid
-            if proxy_name not in base_urls:
-                raise ValueError(f"Unsupported proxy provider: {proxy_name}")
+# Main proxy operation function
+def perform_proxy_operation():
+    request_count, request_limit = get_api_usage()
+    
+    if request_count is None or request_limit is None:
+        print("Error fetching usage data, cannot perform proxy operation.")
+        return
 
-            # Construct the final proxy URL
-            proxy_url = base_urls[proxy_name] + "?" + urlencode(payload)
-            logging.info(f"Generated {proxy_name.capitalize()} Proxy URL: {proxy_url}")
-            return proxy_url
+    # Display the current request count and limit
+    print(f"Current API Usage: {request_count} / {request_limit} requests.")
+    
+    if should_switch():
+        print("Scraper API limit reached. Switching to Scraper Ops.")
+        # Switch to Scraper Ops or implement any fallback logic here
+        # Example: You could switch your proxy manager to use Scraper Ops API key
+        # SCRAPER_API_KEY = SCRAPER_OPS_KEY  # Or however you'd implement the switch
+    else:
+        print("Scraper API is still active.")
+        # Proceed with your regular proxy operations here
 
-        except Exception as e:
-            logging.error(f"Error generating proxy URL for {proxy_name}: {e}")
-            return None
+# Run the operation
+perform_proxy_operation()
+

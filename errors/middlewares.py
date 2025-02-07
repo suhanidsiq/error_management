@@ -4,10 +4,11 @@
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
 from scrapy import signals
-
+from errors.proxy_manager import ProxyManager, should_switch
+import logging
 
 # useful for handling different item types with a single interface
-from itemadapter import is_item, ItemAdapter
+
 
 
 class ErrorsSpiderMiddleware:
@@ -15,14 +16,26 @@ class ErrorsSpiderMiddleware:
     # scrapy acts as if the spider middleware does not modify the
     # passed objects.
     def __init__(self):
-        self.proxy = 'http://scraperapi:37c95f2cdd5d0f402065e4cf09825ef3@proxy-server.scraperapi.com:8001'
-    
+        self.proxy_manager = ProxyManager()
+
     def process_request(self, request, spider):
-        if 'proxy' not in request.meta:
-            request.meta['proxy'] = self.proxy
-    
-    def get_proxy(self):
-        return self.proxy
+        """
+        Modify the request to route traffic through a proxy.
+        
+        :param request: The Scrapy request object
+        :param spider: The Scrapy spider instance
+        """
+        proxy_name = "scraperapi" if not should_switch() else "scrapeops"
+
+        # Generate proxy URL
+        proxy_url = self.proxy_manager.get_proxy_url(request.url, proxy_name)
+
+        if proxy_url:
+            request.meta["proxy"] = proxy_url  # Assign proxy to request
+            logging.info(f"Using proxy: {proxy_url}")
+        else:
+            
+            logging.error(f"Failed to set proxy for {request.url}")
 
     @classmethod
     def from_crawler(cls, crawler):

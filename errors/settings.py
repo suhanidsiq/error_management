@@ -63,6 +63,12 @@ DEFAULT_REQUEST_HEADERS = {
 # # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
    'errors.middlewares.ErrorsSpiderMiddleware': 700,
+
+}
+
+DOWNLOADER_MIDDLEWARES = {
+    'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 750,
+    # If you have custom middlewares, order them appropriately.
 }
 # DOWNLOADER_MIDDLEWARES = {
 #    #  'scrapy_rotating_proxies.middlewares.RotatingProxyMiddleware': 610,
@@ -132,3 +138,7 @@ LOG_LEVEL = 'DEBUG'
 
 ROTATING_PROXY_LIST_PATH = 'proxy_list.txt'
 
+EXTENSIONS = {
+    'errors.extension.ErrorLoggingExtension': 500,  # Ensure correct path
+}
+ERROR_LOGGING_ENABLED = True

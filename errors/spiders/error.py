@@ -3,10 +3,6 @@ from scrapy.exceptions import CloseSpider
 from errors.items import ErrorsItem
 from logs.error_handler import ErrorManager 
 
-
-
-
-
 class ErrorSpider(scrapy.Spider):
     name = "error"
 
@@ -15,19 +11,23 @@ class ErrorSpider(scrapy.Spider):
         self.error_manager = ErrorManager()
 
     def start_requests(self):
+    # Check if the spider has been passed a 'urls' parameter.
+    # If so, assume it's a comma-separated string of URLs.
+        if hasattr(self, 'urls') and self.urls:
+            urls = self.urls.split(',')
+        else:
+            # Fallback to a default list (currently empty or any hardcoded values)
+            urls = [
+                'https://httpbin.org/status/300'
+            ]
         
-        urls = [
-            'https://www.amazon.com/b?node=14253971'
-        ]
-
         for url in urls:
             yield scrapy.Request(
                 url=url,
-                callback=self.parse,
-                # meta={"proxy": "http://scraperapi:37c95f2cdd5d0f402065e4cf09825ef3@proxy-server.scraperapi.com:8001"},
+                callback=self.parse,                
                 errback=lambda failure: self.error_manager.handle_request_failure(failure, self.name)
-
             )
+
 
     def parse(self, response):
         """Parses the response and extracts product details."""
@@ -45,11 +45,7 @@ class ErrorSpider(scrapy.Spider):
                 stars = sel.css(".a-icon-star-small .a-icon-alt::text").get()
                 if not name or not price or not stars:
                     
-                    self.error_manager.log_error(
-                        "Parsing Error", "Missing Required Data", 2001,
-                        f"Missing required item data for URL: {response.url}",
-                        self.name, response.url
-                    )
+                    self.error_manager.log_missing_required_data(response, self.name)
                     continue  
                 item['name'] = name
                 item['price'] = price
@@ -59,15 +55,11 @@ class ErrorSpider(scrapy.Spider):
 
             if not items_found:
                
-                self.error_manager.log_error(
-                    "Parsing Error", "No Items Found", 2002,
-                    f"No items found on page: {response.url}",
-                    self.name, response.url
-                )
+                self.error_manager.log_no_items_found(response, self.name)
         except Exception as e:
             self.error_manager.log_parsing_error(
                 response,
-                f"Error occurred while parsing: {str(e)}",
+                 {str(e)},
                 self.name
             )
 
@@ -83,17 +75,9 @@ class ErrorSpider(scrapy.Spider):
                     meta={'pagination': True}  # Mark this as a pagination request
                 )
             except Exception as e:
-                self.error_manager.log_error(
-                    "Parsing Error", "Pagination Error", 2003,
-                    f"Failed to extract next page: {str(e)}",
-                    self.name, response.url
-                )
+                self.error_manager.log_pagination_error(response,self)
         else:
-            # If pagination element is missing (but it's expected)
+               
             is_last_page = response.css(".s-pagination-next[aria-disabled='true']")
             if not is_last_page:
-                self.error_manager.log_error(
-                    "Parsing Error", "Missing Required Data - Pagination", 2003,
-                    "Pagination element '.s-pagination-next' is missing but expected.",
-                    self.name, response.url
-                )
+                self.error_manager.log_pagination_error_1(response,self)
