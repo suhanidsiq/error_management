@@ -18,7 +18,7 @@ class ErrorSpider(scrapy.Spider):
         else:
             # Fallback to a default list (currently empty or any hardcoded values)
             urls = [
-                'https://httpbin.org/status/300'
+                'https://httpbin.org/status/500'
             ]
         
         for url in urls:
@@ -75,9 +75,9 @@ class ErrorSpider(scrapy.Spider):
                     meta={'pagination': True}  # Mark this as a pagination request
                 )
             except Exception as e:
-                self.error_manager.log_pagination_error(response,self)
+                self.error_manager.log_pagination_error(response,self.name)
         else:
                
             is_last_page = response.css(".s-pagination-next[aria-disabled='true']")
             if not is_last_page:
-                self.error_manager.log_pagination_error_1(response,self)
+                self.error_manager.log_pagination_error_1(response,self.name)

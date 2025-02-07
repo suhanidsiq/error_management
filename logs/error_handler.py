@@ -1,7 +1,9 @@
+from http.client import HTTPResponse
 import os
 import json
 import logging
 import datetime
+from urllib import response
 import pytz # type: ignore
 
 class ErrorManager:
@@ -67,21 +69,16 @@ class ErrorManager:
             "error_code": code,
             "error_message": message,
             "spider": spider,
-            "url": url,
+            "url": url if isinstance(response, HTTPResponse) else str(response),
             "timestamp": datetime.datetime.now(pytz.timezone('Asia/Kolkata')).strftime("%Y-%m-%d %H:%M:%S")
         }
         errors = self.read_errors()
         errors.append(error_entry)
         with open(self.log_file, "a") as f:
-            try:
-                json.dump(error_entry, f, indent=4)
-                f.write("\n")  # Add newline for readability
-            except TypeError as e:
-                logging.error(f"Failed to log error due to serialization issue: {e}. Error Data: {error_data}")
-                # Convert any non-serializable data to string
-                error_data = {k: str(v) for k, v in error_entry.items()}
-                json.dump(error_data, f, indent=4)
-                f.write("\n")
+            
+            json.dump(error_entry, f, indent=4)
+            f.write("\n")  # Add newline for readability
+            
         
     
     def check_response_status(self, response, spider):

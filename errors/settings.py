@@ -129,8 +129,6 @@ FEED_EXPORT_ENCODING = "utf-8"
 
 # } 
 
-# Enable the custom error logging extension
-ERROR_LOGGING_ENABLED = True
 
 # Add the path for logging (if needed for other extensions or settings)
 LOG_FILE = 'logs/scrapy_log.json'

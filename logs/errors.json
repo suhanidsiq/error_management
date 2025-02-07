@@ -15539,3 +15539,174 @@
     "url": "https://httpbin.org/status/300",
     "timestamp": "2025-02-07 14:50:12"
 }
+{
+    "error_category": "Crawling Error",
+    "error_subcategory": "300 Response Error",
+    "error_code": 1002,
+    "error_message": "300 response received from https://httpbin.org/status/300",
+    "spider": "error",
+    "url": "https://httpbin.org/status/300",
+    "timestamp": "2025-02-07 15:05:15"
+}
+{
+    "error_category": "Parsing Error",
+    "error_subcategory": "No Items Found",
+    "error_code": 2002,
+    "error_message": "No items found on page: https://httpbin.org/status/200",
+    "spider": "error",
+    "url": "https://httpbin.org/status/200",
+    "timestamp": "2025-02-07 15:05:15"
+}
+{
+    "error_category": "Parsing Error",
+    "error_subcategory": "Missing Required Data - Pagination",
+    "error_code": 2003,
+    "error_message": "Pagination element is missing but expected.",
+    "spider": {
+    "error_category": "SpiderError",
+    "error_subcategory": "Runtime Error",
+    "error_code": 3001,
+    "error_message": "Spider error in 'error': [Failure instance: Traceback: <class 'UnboundLocalError'>: cannot access local variable 'error_data' where it is not associated with a value\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/utils/defer.py:327:iter_errback\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/utils/python.py:368:__next__\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/utils/python.py:368:__next__\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/core/spidermw.py:106:process_sync\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/spidermiddlewares/referer.py:379:<genexpr>\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/core/spidermw.py:106:process_sync\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/spidermiddlewares/urllength.py:57:<genexpr>\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/core/spidermw.py:106:process_sync\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/spidermiddlewares/depth.py:54:<genexpr>\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/core/spidermw.py:106:process_sync\n/mnt/c/Mediaamp-learning/Scrapy_Errors/errors/errors/spiders/error.py:83:parse\n/mnt/c/Mediaamp-learning/Scrapy_Errors/errors/logs/error_handler.py:141:log_pagination_error_1\n/mnt/c/Mediaamp-learning/Scrapy_Errors/errors/logs/error_handler.py:80:log_error\n]",
+    "spider": "error",
+    "url": "N/A",
+    "timestamp": "2025-02-07 15:05:15"
+}
+{
+    "error_category": "Crawling Error",
+    "error_subcategory": "400 Response Error",
+    "error_code": 1002,
+    "error_message": "400 response received from https://httpbin.org/status/400",
+    "spider": "error",
+    "url": "https://httpbin.org/status/400",
+    "timestamp": "2025-02-07 15:05:15"
+}
+{
+    "error_category": "Parsing Error",
+    "error_subcategory": "No Items Found",
+    "error_code": 2002,
+    "error_message": "No items found on page: https://httpbin.org/status/200",
+    "spider": "error",
+    "url": "https://httpbin.org/status/200",
+    "timestamp": "2025-02-07 15:17:00"
+}
+{
+    "error_category": "Parsing Error",
+    "error_subcategory": "Missing Required Data - Pagination",
+    "error_code": 2003,
+    "error_message": "Pagination element is missing but expected.",
+    "spider": {
+    "error_category": "Parsing Error",
+    "error_subcategory": "Missing Required Data - Pagination",
+    "error_code": 2003,
+    "error_message": "Pagination element is missing but expected.",
+    "spider": {
+    "error_category": "SpiderError",
+    "error_subcategory": "Runtime Error",
+    "error_code": 3001,
+    "error_message": "Spider error in 'error': [Failure instance: Traceback: <class 'TypeError'>: Object of type ErrorSpider is not JSON serializable\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/utils/defer.py:327:iter_errback\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/utils/python.py:368:__next__\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/utils/python.py:368:__next__\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/core/spidermw.py:106:process_sync\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/spidermiddlewares/referer.py:379:<genexpr>\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/core/spidermw.py:106:process_sync\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/spidermiddlewares/urllength.py:57:<genexpr>\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/core/spidermw.py:106:process_sync\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/spidermiddlewares/depth.py:54:<genexpr>\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/core/spidermw.py:106:process_sync\n/mnt/c/Mediaamp-learning/Scrapy_Errors/errors/errors/spiders/error.py:83:parse\n/mnt/c/Mediaamp-learning/Scrapy_Errors/errors/logs/error_handler.py:141:log_pagination_error_1\n/mnt/c/Mediaamp-learning/Scrapy_Errors/errors/logs/error_handler.py:83:log_error\n/usr/lib/python3.12/json/__init__.py:179:dump\n/usr/lib/python3.12/json/encoder.py:432:_iterencode\n/usr/lib/python3.12/json/encoder.py:406:_iterencode_dict\n/usr/lib/python3.12/json/encoder.py:439:_iterencode\n/usr/lib/python3.12/json/encoder.py:180:default\n]",
+    "spider": "error",
+    "url": "N/A",
+    "timestamp": "2025-02-07 15:17:00"
+}
+{
+    "error_category": "Crawling Error",
+    "error_subcategory": "300 Response Error",
+    "error_code": 1002,
+    "error_message": "300 response received from https://httpbin.org/status/300",
+    "spider": "error",
+    "url": "https://httpbin.org/status/300",
+    "timestamp": "2025-02-07 15:17:01"
+}
+{
+    "error_category": "Crawling Error",
+    "error_subcategory": "400 Response Error",
+    "error_code": 1002,
+    "error_message": "400 response received from https://httpbin.org/status/400",
+    "spider": "error",
+    "url": "https://httpbin.org/status/400",
+    "timestamp": "2025-02-07 15:17:01"
+}
+{
+    "error_category": "Parsing Error",
+    "error_subcategory": "No Items Found",
+    "error_code": 2002,
+    "error_message": "No items found on page: https://httpbin.org/status/200",
+    "spider": "error",
+    "url": "https://httpbin.org/status/200",
+    "timestamp": "2025-02-07 15:22:31"
+}
+{
+    "error_category": "Parsing Error",
+    "error_subcategory": "Missing Required Data - Pagination",
+    "error_code": 2003,
+    "error_message": "Pagination element is missing but expected.",
+    "spider": "error",
+    "url": {
+    "error_category": "Parsing Error",
+    "error_subcategory": "Missing Required Data - Pagination",
+    "error_code": 2003,
+    "error_message": "Pagination element is missing but expected.",
+    "spider": "error",
+    "url": {
+    "error_category": "SpiderError",
+    "error_subcategory": "Runtime Error",
+    "error_code": 3001,
+    "error_message": "Spider error in 'error': [Failure instance: Traceback: <class 'TypeError'>: Object of type HtmlResponse is not JSON serializable\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/utils/defer.py:327:iter_errback\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/utils/python.py:368:__next__\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/utils/python.py:368:__next__\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/core/spidermw.py:106:process_sync\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/spidermiddlewares/referer.py:379:<genexpr>\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/core/spidermw.py:106:process_sync\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/spidermiddlewares/urllength.py:57:<genexpr>\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/core/spidermw.py:106:process_sync\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/spidermiddlewares/depth.py:54:<genexpr>\n/home/spareek/.local/share/virtualenvs/Scrapy_Errors-FJKwbz8e/lib/python3.12/site-packages/scrapy/core/spidermw.py:106:process_sync\n/mnt/c/Mediaamp-learning/Scrapy_Errors/errors/errors/spiders/error.py:83:parse\n/mnt/c/Mediaamp-learning/Scrapy_Errors/errors/logs/error_handler.py:141:log_pagination_error_1\n/mnt/c/Mediaamp-learning/Scrapy_Errors/errors/logs/error_handler.py:83:log_error\n/usr/lib/python3.12/json/__init__.py:179:dump\n/usr/lib/python3.12/json/encoder.py:432:_iterencode\n/usr/lib/python3.12/json/encoder.py:406:_iterencode_dict\n/usr/lib/python3.12/json/encoder.py:439:_iterencode\n/usr/lib/python3.12/json/encoder.py:180:default\n]",
+    "spider": "error",
+    "url": "N/A",
+    "timestamp": "2025-02-07 15:22:31"
+}
+{
+    "error_category": "Crawling Error",
+    "error_subcategory": "300 Response Error",
+    "error_code": 1002,
+    "error_message": "300 response received from https://httpbin.org/status/300",
+    "spider": "error",
+    "url": "https://httpbin.org/status/300",
+    "timestamp": "2025-02-07 15:22:32"
+}
+{
+    "error_category": "Crawling Error",
+    "error_subcategory": "400 Response Error",
+    "error_code": 1002,
+    "error_message": "400 response received from https://httpbin.org/status/400",
+    "spider": "error",
+    "url": "https://httpbin.org/status/400",
+    "timestamp": "2025-02-07 15:22:32"
+}
+{
+    "error_category": "Crawling Error",
+    "error_subcategory": "300 Response Error",
+    "error_code": 1002,
+    "error_message": "300 response received from https://httpbin.org/status/300",
+    "spider": "error",
+    "url": "<module 'urllib.response' from '/usr/lib/python3.12/urllib/response.py'>",
+    "timestamp": "2025-02-07 15:26:06"
+}
+{
+    "error_category": "Crawling Error",
+    "error_subcategory": "400 Response Error",
+    "error_code": 1002,
+    "error_message": "400 response received from https://httpbin.org/status/400",
+    "spider": "error",
+    "url": "<module 'urllib.response' from '/usr/lib/python3.12/urllib/response.py'>",
+    "timestamp": "2025-02-07 15:26:06"
+}
+{
+    "error_category": "Parsing Error",
+    "error_subcategory": "No Items Found",
+    "error_code": 2002,
+    "error_message": "No items found on page: https://httpbin.org/status/200",
+    "spider": "error",
+    "url": "<module 'urllib.response' from '/usr/lib/python3.12/urllib/response.py'>",
+    "timestamp": "2025-02-07 15:26:06"
+}
+{
+    "error_category": "Parsing Error",
+    "error_subcategory": "Missing Required Data - Pagination",
+    "error_code": 2003,
+    "error_message": "Pagination element is missing but expected.",
+    "spider": "error",
+    "url": "<module 'urllib.response' from '/usr/lib/python3.12/urllib/response.py'>",
+    "timestamp": "2025-02-07 15:26:06"
+}
