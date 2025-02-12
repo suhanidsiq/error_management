@@ -1,1 +1,55 @@
-logs/*.json
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+*.venv
+*.env
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Scrapy specific
+.scrapy/
+*.db
+*.sqlite3
+
+# Logs and debug files
+logs/
+*.log
+*.bak
+*.json
+
+# Ignore error logs
+errors/errors.json
+
+# Cache and temporary files
+.cache/
+*.swp
+*.swo
+*.swn
+
+# Ignore compiled C extensions
+*.so
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore DBeaver files (if applicable)
+.dbeaver/
+
+# Ignore deployment files
+*.tar.gz
+*.zip
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace

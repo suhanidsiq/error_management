@@ -9,7 +9,7 @@ class ErrorSpider(scrapy.Spider):
     def __init__(self, *args, **kwargs):
         super(ErrorSpider, self).__init__(*args, **kwargs)
         self.error_manager = ErrorManager()
-
+        
     def start_requests(self):
     # Check if the spider has been passed a 'urls' parameter.
     # If so, assume it's a comma-separated string of URLs.
@@ -25,7 +25,8 @@ class ErrorSpider(scrapy.Spider):
             yield scrapy.Request(
                 url=url,
                 callback=self.parse,                
-                errback=lambda failure: self.error_manager.handle_request_failure(failure, self.name)
+                errback=lambda failure: self.error_manager.handle_request_failure(failure, self.name),
+                meta={'proxy': proxy} 
             )
 
 
@@ -43,6 +44,7 @@ class ErrorSpider(scrapy.Spider):
                 name = sel.css(".a-color-base.a-text-normal>span::text").get()
                 price = sel.css(".a-price-whole::text").get()
                 stars = sel.css(".a-icon-star-small .a-icon-alt::text").get()
+                No_of_reviews = sel.css(".a-size-base.s-underline-text::text").get()
                 if not name or not price or not stars:
                     
                     self.error_manager.log_missing_required_data(response, self.name)
@@ -50,6 +52,7 @@ class ErrorSpider(scrapy.Spider):
                 item['name'] = name
                 item['price'] = price
                 item['stars'] = stars
+                item['No_of_reviews'] = No_of_reviews
                 items_found = True
                 yield item
 

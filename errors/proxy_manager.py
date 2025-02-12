@@ -1,15 +1,18 @@
 import os
 import requests
-from logs.error_handler import ErrorManager
+
 
 import logging
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Load your keys from the .env file (assuming you're using python-dotenv to load them)
 SCRAPER_API_KEY = os.getenv("SCRAPER_API_KEY")
 SCRAPER_OPS_KEY = os.getenv("SCRAPER_OPS_KEY")
 
 # Function to fetch current usage stats from Scraper API
-def get_api_usage(self,spider):
+def get_api_usage():
     url = f"http://api.scraperapi.com/account?api_key={SCRAPER_API_KEY}"
     try:
         response = requests.get(url)
@@ -61,6 +64,5 @@ def perform_proxy_operation():
         print("Scraper API is still active.")
         # Proceed with your regular proxy operations here
 
-# Run the operation
-perform_proxy_operation()
+
 

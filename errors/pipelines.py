@@ -8,16 +8,6 @@
 # from itemadapter import ItemAdapter
 
 
-# class ErrorsPipeline:
-#     def process_item(self, item, spider):
-#         """Process items and simulate errors."""
-#         if not item.get("url"):
-#             raise DropItem("Missing URL in item!")
-            
-#         if item.get("status") != 200:
-#             spider.logger.warning(f"Non-200 status code for URL: {item['url']}")
-#         return item
-
 from itemadapter import ItemAdapter
 from logs.error_handler import ErrorHandler
 from scrapy.exceptions import DropItem

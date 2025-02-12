@@ -20,6 +20,7 @@ class ErrorLoggingExtension:
             raise NotConfigured
         return cls(crawler)
 
+
     def connect_signals(self):
         """Connect Scrapy signals to the corresponding handlers."""
         signal_manager = SignalManager(self.crawler)
@@ -44,7 +45,7 @@ class ErrorLoggingExtension:
         signal_manager.connect(self.engine_stopped_handler, signal=signals.engine_stopped)
 
 
-    # ======================== [ LIFECYCLE SIGNALS ] ========================
+ 
 
     def spider_opened_handler(self, spider):
         """Triggered when the spider starts running."""
@@ -58,22 +59,31 @@ class ErrorLoggingExtension:
         spider.logger.info(message)
         self.error_handler.log_signal(message)
 
-    # ======================== [ ERROR SIGNALS ] ========================
+
 
     
     def handle_request_failed(self, failure, request, spider):
         """Handles request failures (e.g., timeouts, connection errors)."""
         message = f"Request failed: {request.url}, Error: {failure}"
         spider.logger.warning(message)
-        self.error_handler.log_error("RequestFailed", "Network Error", 3002, message, spider.name, request.url)
+        self.error_handler.log_error("Crawling Error", "RequestFailed - Network Error", 1003, message, spider.name, request.url)
 
     def handle_spider_error(self, failure, spider):
         """Handles unexpected spider errors."""
         message = f"Spider error in '{spider.name}': {failure}"
         spider.logger.error(message)
-        self.error_handler.log_error("SpiderError", "Runtime Error", 3001, message, spider.name, url="N/A")    
+        self.error_handler.log_error("System Failure", "SpiderError - Runtime Error", 3002, message, spider.name, url="N/A")    
 
-    # ======================== [ ITEM SIGNALS ] ========================
+
+   
+    def item_dropped_handler(self, item, response, exception, spider):
+        """Handles dropped items (e.g., missing fields, validation issues)."""
+        message = f"Item dropped: {exception}. URL: {response.url}"
+        spider.logger.warning(message)
+        self.error_handler.log_error("System Failure", "ItemDropped - Validation Error", 3003, message, spider.name, response.url)
+
+
+
 
     def item_scraped_handler(self, item, response, spider):
         """Logs when an item is successfully scraped."""
@@ -81,13 +91,8 @@ class ErrorLoggingExtension:
         spider.logger.info(message)
         self.error_handler.log_signal(message)
 
-    def item_dropped_handler(self, item, response, exception, spider):
-        """Handles dropped items (e.g., missing fields, validation issues)."""
-        message = f"Item dropped: {exception}. URL: {response.url}"
-        spider.logger.warning(message)
-        self.error_handler.log_error("ItemDropped", "Validation Error", 3003, message, spider.name, response.url)
 
-    # ======================== [ RESPONSE SIGNALS ] ========================
+   
 
     def response_received_handler(self, response, request, spider):
         """Logs when a response is received."""
@@ -101,8 +106,7 @@ class ErrorLoggingExtension:
         spider.logger.info(message)
         self.error_handler.log_signal(message)
 
-    # ======================== [ ENGINE SIGNALS ] ========================
-
+   
     def engine_started_handler(self):
         """Logs when the Scrapy engine starts."""
         message = "Scrapy engine started."

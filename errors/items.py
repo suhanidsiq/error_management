@@ -11,4 +11,5 @@ class ErrorsItem(scrapy.Item):
     name = scrapy.Field()
     price = scrapy.Field()
     stars = scrapy.Field()
+    No_of_reviews = scrapy.Field()
     

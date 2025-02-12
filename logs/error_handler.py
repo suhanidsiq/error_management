@@ -3,6 +3,7 @@ import os
 import json
 import logging
 import datetime
+from errors.proxy_manager import perform_proxy_operation
 from urllib import response
 import pytz # type: ignore
 
@@ -156,3 +157,11 @@ class ErrorManager:
         code =  2002
         message =  f"No items found on page: {response.url}"
         self.log_error(category, subcategory, code, message, spider, response.url)    
+
+    # logs/error_handler.py
+
+
+   
+    def handle_request_failure(self, failure, spider_name):
+        # Simply call the proxy operation dynamically
+        perform_proxy_operation()
